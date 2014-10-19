@@ -14,4 +14,6 @@ Jolly Icons Free is a set of 36 hand-drawn icons by [Hand-Drawn Goods](http://ha
 
 #License
 
-Jolly Icons are licensed under CC Atribution 3.0 — Code licensed under MIT License — Documentation licensed under CC BY 3.0
+- Jolly Icons are licensed under CC Attribution 3.0
+- Code licensed under MIT License 
+— Documentation licensed under CC BY 3.0
