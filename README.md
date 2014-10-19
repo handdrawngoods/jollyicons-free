@@ -10,10 +10,10 @@ Jolly Icons Free is a set of 36 hand-drawn icons by [Hand-Drawn Goods](http://ha
 
 ``<span class="ico-coffee"></span>``
 
-![Icon Preview](http://htmlpreview.github.io/?https://github.com/handdrawngoods/jollyicons-free/blob/master/icon-font/demo.html)
+[Icon Font Preview](http://htmlpreview.github.io/?https://github.com/handdrawngoods/jollyicons-free/blob/master/icon-font/demo.html)
 
 ##License
 
 - Jolly Icons are licensed under CC Attribution 3.0
-- Code is licensed under MIT License
 - Documentation is licensed under CC BY 3.0
+- Code is licensed under MIT License
