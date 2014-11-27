@@ -16,3 +16,6 @@
 - Jolly Icons are licensed under CC Attribution 3.0
 - Documentation is licensed under CC BY 3.0
 - Code is licensed under MIT License
+
+## Test
+[ ![Codeship Status for handdrawngoods/jollyicons-free](https://codeship.com/projects/637418c0-57f7-0132-11ec-5a2f44d2a21b/status)](https://codeship.com/projects/49981)
